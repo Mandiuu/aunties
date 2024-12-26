@@ -56,12 +56,14 @@ button.next-button {
   padding: 14px 20px;
   font-size: 18px;
   font-weight: bold;
-  background: #F3A712;
+  background: #28a745; /* Green background to differentiate */
+  color: white;
   border-radius: 30px;
   transition: all 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 button.next-button:hover {
-  background: #F3A712;
+  background: #218838; /* Darker green for hover */
   transform: translateY(-2px);
 }
