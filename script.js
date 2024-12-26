@@ -7,31 +7,31 @@ const questions = [
   },
   {
     question: "Who is this Auntie?",
-    picture: "./images/Lauren.png",
+    picture: "./images/Lauren.jpg",
     options: ["Laura Kukkonen", "Carla Mandiola", "Ariane Luthi", "Yixiao Ren", "Anna Oakes", "Lauren Watson", "Natalia Belizario"],
     answer: "Lauren Watson",
   },
   {
     question: "Can you guess who she is?",
-    picture: "./images/Natalia.png",
+    picture: "./images/Natalia.jpg",
     options: ["Yixiao Ren", "Natalia Belizario", "Ariane Luthi", "Anna Oakes", "Laura Kukkonen", "Carla Mandiola", "Lauren Watson"],
     answer: "Natalia Belizario",
   },
   {
       question: "You have seen this face before",
-      picture: "/aunties/images/Carla.png", // Updated path
+      picture: "/aunties/images/Carla.jpg", // Updated path
       options: ["Carla Mandiola", "Yixiao Ren", "Anna Oakes", "Lauren Watson", "Natalia Belizario", "Laura Kukkonen", "Ariane Luthi"],
       answer: "Carla Mandiola",
     },
     {
       question: "Oh, who is she?",
-      picture: "/aunties/images/Yixiao.png", // Updated path
+      picture: "/aunties/images/Yixiao.jpg", // Updated path
       options: ["Natalia Belizario", "Lauren Watson", "Ariane Luthi", "Yixiao Ren", "Anna Oakes", "Carla Mandiola", "Laura Kukkonen"],
       answer: "Yixiao Ren",
     },
     {
       question: "Who is this little kid?",
-      picture: "/aunties/images/Laura.png", // Updated path
+      picture: "/aunties/images/Laura.jpg", // Updated path
       options: ["Ariane Luthi", "Yixiao Ren", "Anna Oakes", "Carla Mandiola", "Laura Kukkonen", "Natalia Belizario", "Lauren Watson"],
       answer: "Laura Kukkonen",
     },
